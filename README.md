@@ -15,7 +15,7 @@ Here are some specific requirements our iOS developer got before creating this s
   - Before even trying to log in the button should say "Log In"
   - While logging in it should say: "Logging In..."
   - After a successfull login the button should say: "Logged In OK"
-- Logging in with bad credentials should show an alertView telling the user that the login failed. It should also change the title of the login button back to "Login". 
+- Logging in with bad credentials should show an alertView telling the user that the login failed. It should also change the title of the login button back to "Log In". 
 - While logging in, both the input fields and the button should be disabled.
 
 
