@@ -20,5 +20,5 @@ Here are some specific requirements our iOS developer got before creating this s
 
 
 
-Your mission is to do the minimum steps required to setup Appium in this project and to write some automated UI tests for this Login screen. You should submit your work as a PR to this repository and write a short description as a pull request message on how to run the tests. 
+Your mission is to do the minimum steps required to setup Appium in this project and to write some automated UI tests for this Login screen. You should submit your work as a PR to this repository and write a short description as a pull request message on how to run the tests. You'll get plus points if you can also provide a small bash script that make it super easy for us to run the tests. 
 
