@@ -19,7 +19,7 @@ Here are some specific requirements our iOS developer got before creating this s
 - While logging in, both the input fields and the button should be disabled.
 
 
-------
+-------
 
 Your mission is to do the minimum steps required to setup Appium in this project and to write some automated UI tests for this Login screen. You should submit your work as a PR to this repository and write a short description as a pull request message on how to run the tests. You'll get extra points if you can also provide a small bash script that does most of the work and make it super easy for us to download any dependencies and run the tests. 
 
